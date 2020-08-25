@@ -11,7 +11,7 @@ public class Bubble {
         int[] array={5,8,2,7,5,6,3,4,8,9};
         bubbleSort(array);
         for (int i:array){
-            System.out.print(i+"  ");
+            System.out.print(i+" **** ");
         };
     }
 
